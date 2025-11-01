@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">John</string>
+    <string name="title">A Professional</string>
+    <string name="phone_placeholder">+34 (86) 779 234</string>
+    <string name="social_placeholder">johnmedia</string>
+    <string name="email_placeholder">john@fakemail.com</string>
+</resources>
