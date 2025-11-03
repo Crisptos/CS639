@@ -4,4 +4,5 @@
 <p> This app calculates the area of a circle based on a given radius.</p>
 
 ## <ins>Screenshots</ins>
-![Screenshot of the main page.](Screenshots/main.png)
+![Screenshot of the main page.](Screenshots/main_page.png)
+![Screenshot of error checking.](Screenshots/input_checking.png)
