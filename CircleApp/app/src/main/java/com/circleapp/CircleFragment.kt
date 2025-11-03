@@ -27,7 +27,7 @@ class CircleFragment : Fragment() {
             if(radius_val == 0.0)
                 Toast.makeText(requireContext(), "Invalid input. Please type any value > 0...", Toast.LENGTH_SHORT).show()
             else {
-                val areaVal: Double = radius_val * Math.PI
+                val areaVal: Double = radius_val * radius_val * Math.PI
                 val finalStr = getString(R.string.answer_label) + " " + String.format("%.2f", areaVal)
                 answerLabel.text = finalStr
             }
